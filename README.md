@@ -88,6 +88,16 @@ As bibliotecas utilizadas no projeto incluem:
 - scikit-learn
 As versões específicas podem ser encontradas no arquivo requirements.txt.
 
-##Licença
+## Licença
 Este projeto foi desenvolvido para fins acadêmicos e pode ser utilizado como referência. Sinta-se à vontade para adaptá-lo e expandi-lo conforme necessário.
 
+## Dashboard
+Esse projeto alimenta um Dashboard que foi criado em Power BI e está disponivel aqui no GitHub, além de também estar disponivel em uma URL publica:
+- Link: https://app.powerbi.com/view?r=eyJrIjoiNWUwYjdjY2YtZTNhMi00NTEyLWJhMWMtYWZhYWEwZDc0ZWIwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+- 
+  
+
+## Video Explicativo
+Existe um video no youtube explicando a solução com o objetivo acadêmico
+- Link: https://youtu.be/HT5oqya--q8
+- 
